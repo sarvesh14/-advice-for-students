@@ -112,7 +112,7 @@ There are some concepts that you will find in every other cyber security-related
 phishing, ddos and dos attack, website crawling, encoding and encryption, password cracking, login bruteforcing, man in the middle attack
 ```
 
-## What's next?
+## What's next? 
 
 If you have gone through all the basics, especially the basic hacking concepts, you might have developed an interest in some particular things already. If you haven't, I am mentioning some cyber security-related fields here, google the ones that catch your eye:
 
